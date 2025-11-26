@@ -83,7 +83,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _AddPrecomputedVelocity: 0
-    - _Alpha: 0.1
+    - _Alpha: 0.648
     - _AlphaClip: 0
     - _AlphaToMask: 0
     - _Blend: 0
@@ -99,20 +99,20 @@ Material:
     - _DistortSpeed: 0
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _Emission: 15
+    - _Emission: 10
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _LineDensity: 5
-    - _LineSpeed: 3
+    - _LineDensity: 12
+    - _LineSpeed: 4
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _ScanSpeed: 2
-    - _ScanWidth: 0.3
+    - _ScanSpeed: 0
+    - _ScanWidth: 0
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -125,7 +125,7 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 0.5521611, g: 1, b: 0.4575472, a: 1}
+    - _MainColor: {r: 0.21825309, g: 0, b: 0.38039216, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
